@@ -1,6 +1,6 @@
-# classwork
+## Check your connection
 
-A new Flutter project.
+Check your network connection via this mobile app
 
 ## Getting Started
 
